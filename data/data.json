@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "name": "oneplus 11R",
+      "price": 45000,
+      "code": "M-01",
+      "isAvailable": true,
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi debitis eligendi atque quidem porro beatae officiis eum! Reprehenderit, quasi corporis dolorem iusto dicta non sed autem vitae necessitatibus velit cum",
+      "image": "assets/images/oneplus11r.jfif",
+      "id": "1"
+    },
+    {
+      "name": "Mi Tv",
+      "price": 50000,
+      "code": "Tv-03",
+      "isAvailable": true,
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi debitis eligendi atque quidem porro beatae officiis eum! Reprehenderit, quasi corporis dolorem iusto dicta non sed autem vitae necessitatibus velit cum",
+      "image": "assets/images/mitv.jfif",
+      "id": "3"
+    },
+    {
+      "name": "Samsung A27",
+      "id": "6",
+      "price": 22000.321456,
+      "code": "M-06",
+      "image": "assets/images/samsunga27.jfif",
+      "isAvailable": true,
+      "manufactureDate": "Thu Mar 10 2024 19:47:14 GMT+0530 (India Standard Time)",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi debitis eligendi atque quidem porro beatae officiis eum! Reprehenderit, quasi corporis dolorem iusto dicta non sed autem vitae necessitatibus velit cum"
+    },
+    {
+      "id": "0e55",
+      "name": "Oneplus",
+      "price": 45000,
+      "code": "Mc-23",
+      "isAvailable": true,
+      "description": "best",
+      "image": "/assets/images/lgtv.png",
+      "manufacturedDate": "2024-04-19T17:12:00.567Z"
+    },
+    {
+      "id": "342e",
+      "name": "Oneplus",
+      "price": 49999,
+      "code": "MD-23",
+      "isAvailable": true,
+      "description": "ndsd",
+      "image": "assets/images/oneplus 10t.jfif",
+      "manufacturedDate": "2024-04-19T17:50:01.788Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "valay"
+    },
+    {
+      "id": "2",
+      "name": "akshay"
+    }
+  ]
+}
